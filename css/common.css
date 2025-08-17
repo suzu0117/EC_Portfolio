@@ -1,0 +1,89 @@
+header {
+    position: relative;
+}
+.user_info {
+    position:absolute;
+    top:10%;
+    left:80%;
+}
+.user_info_list {
+    display: flex;
+    align-items: center;
+}
+.user_info_item {
+    margin-left: 10px;
+}
+.cart_img {
+    width: 50px;
+}
+h1 {
+    text-align: center;
+    font-size: 54px;
+}
+.main_menu{
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+.main_menu_list {
+    margin:0 auto;
+    width: 30%;
+    display:flex;
+    justify-content: space-between;
+    
+}
+.main_menu_item {
+    font-size: 18px;
+    font-family:Noto Sans JP Rounded;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.footer_container {
+    background-color: #222222;
+    padding-top:20px;
+    padding-bottom:10px;
+    color: #fff;
+}
+footer {
+    width: fit-content;
+    margin:0 auto;
+    text-align: center;
+}
+.sns_link_area {
+    margin-top:15px;
+    margin-bottom:15px;
+}
+.sns_link {
+    margin-left:10px;
+    margin-right:10px;
+}
+.sns_link_img {
+    width: 30px;
+}
+.footer_border_line {
+    width: 60vw;
+    border-top: 1px solid #333;
+}
+.footer_nav {
+    display: flex;
+    text-align: left;
+    width: fit-content;
+    margin: 15px auto;
+    font-size:13px;
+}
+.footer_nav div{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.footer_nav_title {
+    font-weight: 600;
+    margin-bottom:8px;
+}
+.footer_nav_item {
+    margin-bottom: 5px;
+}
+footer small{
+    display:block;
+    margin:10px auto 0;
+    width: fit-content;
+}
