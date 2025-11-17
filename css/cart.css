@@ -78,3 +78,17 @@ h2 {
     text-align: center;
     margin-bottom:10px;
 }
+
+.empty_cart_area {
+    text-align: center;
+}
+
+.empty_cart_message {
+    font-size:24px;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+.empty_cart_link {
+    text-decoration: underline;
+}
