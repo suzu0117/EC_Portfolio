@@ -47,7 +47,7 @@ function displaycartui(cart) {
     cart.forEach(item => {
         sumitemprice = sumitemprice + item.item_price;
     });
-    if(sumitemprice >= 10000 || sumitemprice == 0){
+    if(sumitemprice >= 10000){
         shipping = 0;
     }else{
         shipping = 500;
