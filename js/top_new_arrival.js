@@ -1,6 +1,6 @@
 (() => {
     let items = [];
-    fetch('./json/item_list.json')
+    fetch('https://ec-portfolio-back.onrender.com/itemList')
         .then(response => response.json())
         .then(data => {
             items = data.sort((a,b) => {

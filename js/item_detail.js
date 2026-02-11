@@ -1,7 +1,7 @@
 const urlparams = new URLSearchParams(window.location.search);
-const id = urlparams.get('id');
+const id = Number(urlparams.get('id'));
 
-fetch('./json/item_list.json')
+fetch('https://ec-portfolio-back.onrender.com/itemList')
     .then(response => response.json())
     .then(data => {
         const item = data.find(test => test.id === id);
