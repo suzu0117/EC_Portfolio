@@ -1,0 +1,156 @@
+[
+  {
+    "id": "1",
+    "item_name": "クマプリントプルオーバーパーカー",
+    "item_price": 12980,
+    "item_img": "./img/item_1.jpg",
+    "item_text": "test",
+    "item_link": "item_detail.html?id=1",
+    "release_date": "2025-06-11",
+    "ranking": "10",
+    "colors": ["ブラック", "ホワイト"]
+  },
+  {
+    "id": "2",
+    "item_name": "レオパードクマTシャツ",
+    "item_price": 7150,
+    "item_img": "./img/item_2.jpg",
+    "item_text": "test",
+    "item_link": "item_detail.html?id=2",
+    "release_date": "2025-06-30",
+    "ranking": "2",
+    "colors": ["ブラック", "ホワイト"]
+  },
+  {
+    "id": "3",
+    "item_name": "クラロリ地雷ちゃんの微睡ドールワンピ",
+    "item_price": 21780,
+    "item_img": "./img/item_3.jpg",
+    "item_text": "test",
+    "item_link": "item_detail.html?id=3",
+    "release_date": "2025-06-30",
+    "ranking": "14",
+    "colors": ["ブラック", "ホワイト"]
+  },
+  {
+    "id": "4",
+    "item_name": "スカルプリントダメージ加工半袖Tシャツ",
+    "item_price": 7590,
+    "item_img": "./img/item_4.jpg",
+    "item_text": "test",
+    "item_link": "item_detail.html?id=4",
+    "release_date": "2025-06-30",
+    "ranking": "1",
+    "colors": ["ブラック", "ホワイト"]
+  },
+  {
+    "id": "5",
+    "item_name": "装飾控えめになりました",
+    "item_price": 11990,
+    "item_img": "./img/item_5.jpg",
+    "item_text": "test",
+    "item_link": "item_detail.html?id=5",
+    "release_date": "2025-06-24",
+    "ranking": "13",
+    "colors": ["ブラック", "ホワイト"]
+  },
+  {
+    "id": "6",
+    "item_name": "ティアードギャザースカート",
+    "item_price": 8250,
+    "item_img": "./img/item_6.jpg",
+    "item_text": "test",
+    "item_link": "item_detail.html?id=6",
+    "release_date": "2025-06-15",
+    "ranking": "5",
+    "colors": ["ブラック", "ホワイト"]
+  },
+  {
+    "id": "7",
+    "item_name": "スウェットティアードギャザーフリルスカート",
+    "item_price": 10780,
+    "item_img": "./img/item_7.jpg",
+    "item_text": "test",
+    "item_link": "item_detail.html?id=7",
+    "release_date": "2025-06-19",
+    "ranking": "9",
+    "colors": ["ブラック", "ホワイト"]
+  },
+  {
+    "id": "8",
+    "item_name": "セーラー衿ジップアップ半袖スウェット＆スカート2Pセットアップ",
+    "item_price": 11880,
+    "item_img": "./img/item_8.jpg",
+    "item_text": "test",
+    "item_link": "item_detail.html?id=8",
+    "release_date": "2025-06-08",
+    "ranking": "3",
+    "colors": ["ブラック", "ホワイト"]
+  },
+  {
+    "id": "9",
+    "item_name": "クロスパッチ切り替えワイドデニムパンツ",
+    "item_price": 28380,
+    "item_img": "./img/item_9.jpg",
+    "item_text": "test",
+    "item_link": "item_detail.html?id=9",
+    "release_date": "2025-06-28",
+    "ranking": "11",
+    "colors": ["ブラック", "ホワイト"]
+  },
+  {
+    "id": "10",
+    "item_name": "猫耳パンクノースリジップアップパーカー",
+    "item_price": 16280,
+    "item_img": "./img/item_10.jpg",
+    "item_text": "test",
+    "item_link": "item_detail.html?id=10",
+    "release_date": "2025-06-13",
+    "ranking": "4",
+    "colors": ["ブラック", "ホワイト"]
+  },
+  {
+    "id": "11",
+    "item_name": "クマプリントプルオーバーパーカー",
+    "item_price": 12980,
+    "item_img": "./img/item_1.jpg",
+    "item_text": "test",
+    "item_link": "item_detail.html?id=11",
+    "release_date": "2025-06-20",
+    "ranking": "6",
+    "colors": ["ブラック", "ホワイト"]
+  },
+  {
+    "id": "12",
+    "item_name": "クマプリントプルオーバーパーカー",
+    "item_price": 12980,
+    "item_img": "./img/item_1.jpg",
+    "item_text": "test",
+    "item_link": "item_detail.html?id=12",
+    "release_date": "2025-06-03",
+    "ranking": "7",
+    "colors": ["ブラック", "ホワイト"]
+  },
+  {
+    "id": "13",
+    "item_name": "クマプリントプルオーバーパーカー",
+    "item_price": 12980,
+    "item_img": "./img/item_1.jpg",
+    "item_text": "test",
+    "item_link": "item_detail.html?id=13",
+    "release_date": "2025-06-17",
+    "ranking": "12",
+    "colors": ["ブラック", "ホワイト"]
+  },
+  {
+    "id": "14",
+    "item_name": "クマプリントプルオーバーパーカー",
+    "item_price": 12980,
+    "item_img": "./img/item_1.jpg",
+    "item_text": "test",
+    "item_link": "item_detail.html?id=14",
+    "release_date": "2025-06-30",
+    "ranking": "8",
+    "colors": ["ブラック", "ホワイト"]
+  }
+]
