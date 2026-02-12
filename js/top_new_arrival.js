@@ -20,7 +20,7 @@
             item.className = 'item';
             item.innerHTML = `
             <a href="./${test.item_link}">
-                    <img src="./${test.item_img}">
+                    <img src="${test.item_img}">
                     <div class="item_infomation">
                         <p>${test.item_name}</p>
                         <p>${test.item_price.toLocaleString()}円(税込み)</p>

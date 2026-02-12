@@ -29,7 +29,7 @@
             
             item.innerHTML = `
             <a href="./${test.item_link}">
-                    <img class="ranking_img" src="./${test.item_img}">
+                    <img class="ranking_img" src="${test.item_img}">
                     <span class="ranking_icon">${test.ranking}</span>
                     <div class="item_infomation">
                         <p>${test.item_name}</p>

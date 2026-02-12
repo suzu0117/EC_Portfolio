@@ -11,7 +11,7 @@ function displaycart(cart) {
             cart_item.className = 'cart_item';
             cart_item.innerHTML = `
                 <div class="cart_item_img_area">
-                    <img src="./${test.item_img}" class="cart_item_img">
+                    <img src="${test.item_img}" class="cart_item_img">
                 </div>
                 <div class="cart_item_info">
                     <h3 class="cart_item_name">${test.item_name}</h3>
